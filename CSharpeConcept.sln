@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exersises", "Exersises\Exer
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Encasulation", "Encasulation\Encasulation.csproj", "{4569737C-F784-46E4-829B-CE8B2239D58B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Abstraction", "Abstraction\Abstraction.csproj", "{DE56E1C4-C846-4CB4-8928-146C1318B15B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{4569737C-F784-46E4-829B-CE8B2239D58B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4569737C-F784-46E4-829B-CE8B2239D58B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4569737C-F784-46E4-829B-CE8B2239D58B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE56E1C4-C846-4CB4-8928-146C1318B15B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE56E1C4-C846-4CB4-8928-146C1318B15B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE56E1C4-C846-4CB4-8928-146C1318B15B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE56E1C4-C846-4CB4-8928-146C1318B15B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
