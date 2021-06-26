@@ -24,8 +24,15 @@ namespace DelegateSample
             button.Size = new Size(100, 40);
             button.Location = new Point(100, 100);
             this.Controls.Add(button);
+            // Delegate version
             button.Click += new EventHandler(b_Click);
+            //Anonymous Method Version
             button.Click += delegate
+            {
+                MessageBox.Show("Hello Delegates");
+            };
+            //Lambda expression version
+            button.Click += (sender1,e1) =>
             {
                 MessageBox.Show("Hello Delegates");
             };

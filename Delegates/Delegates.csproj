@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>Delegates.AnonymousMethods</StartupObject>
+    <StartupObject>Delegates.LambdaExpression</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
