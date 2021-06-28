@@ -48,6 +48,7 @@
   <ItemGroup>
     <Compile Include="AnonymousMethods.cs" />
     <Compile Include="Delegates.cs" />
+    <Compile Include="GenricsDelegates.cs" />
     <Compile Include="LambdaExpression.cs" />
     <Compile Include="MulticastDelegate.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
