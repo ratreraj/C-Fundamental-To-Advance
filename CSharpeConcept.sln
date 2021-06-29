@@ -23,6 +23,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DelegateSample", "DelegateS
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interfaces", "Interfaces\Interfaces.csproj", "{D393CC3D-6066-4876-9C05-CE014AC84C71}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExtensionMethods", "ExtensionMethods\ExtensionMethods.csproj", "{784A22C4-F880-4BFC-9DA6-DD0329E23C80}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +71,10 @@ Global
 		{D393CC3D-6066-4876-9C05-CE014AC84C71}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D393CC3D-6066-4876-9C05-CE014AC84C71}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D393CC3D-6066-4876-9C05-CE014AC84C71}.Release|Any CPU.Build.0 = Release|Any CPU
+		{784A22C4-F880-4BFC-9DA6-DD0329E23C80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{784A22C4-F880-4BFC-9DA6-DD0329E23C80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{784A22C4-F880-4BFC-9DA6-DD0329E23C80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{784A22C4-F880-4BFC-9DA6-DD0329E23C80}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
