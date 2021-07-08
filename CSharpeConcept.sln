@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MethodOverriding", "MethodO
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PartialClassAndMethod", "PartialClassAndMethod\PartialClassAndMethod.csproj", "{DCF73E64-F0CA-4767-B398-3982B68BFDB5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SealedClassDemo", "SealedClassDemo\SealedClassDemo.csproj", "{4610B292-B37D-4A5E-B147-8DE2334FFF77}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +101,10 @@ Global
 		{DCF73E64-F0CA-4767-B398-3982B68BFDB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DCF73E64-F0CA-4767-B398-3982B68BFDB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DCF73E64-F0CA-4767-B398-3982B68BFDB5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4610B292-B37D-4A5E-B147-8DE2334FFF77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4610B292-B37D-4A5E-B147-8DE2334FFF77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4610B292-B37D-4A5E-B147-8DE2334FFF77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4610B292-B37D-4A5E-B147-8DE2334FFF77}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
