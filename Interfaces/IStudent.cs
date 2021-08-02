@@ -13,10 +13,10 @@ namespace Interfaces
 
     }
 
-    public interface IStudentA: IStudent
+    public interface IStudentA : IStudent
     {
-        void GetStudentName(string name);
-        decimal GetStudetMark(decimal mark);
+        new void GetStudentName(string name);
+        new decimal GetStudetMark(decimal mark);
 
     }
 }
