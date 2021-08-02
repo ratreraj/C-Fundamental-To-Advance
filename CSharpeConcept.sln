@@ -35,6 +35,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PartialClassAndMethod", "Pa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SealedClassDemo", "SealedClassDemo\SealedClassDemo.csproj", "{4610B292-B37D-4A5E-B147-8DE2334FFF77}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DelegatesDemo", "DelegatesDemo\DelegatesDemo.csproj", "{0C3611E0-560F-47E4-90DB-54DF2E103784}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -105,6 +107,10 @@ Global
 		{4610B292-B37D-4A5E-B147-8DE2334FFF77}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4610B292-B37D-4A5E-B147-8DE2334FFF77}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4610B292-B37D-4A5E-B147-8DE2334FFF77}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C3611E0-560F-47E4-90DB-54DF2E103784}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C3611E0-560F-47E4-90DB-54DF2E103784}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C3611E0-560F-47E4-90DB-54DF2E103784}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C3611E0-560F-47E4-90DB-54DF2E103784}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
